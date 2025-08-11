@@ -120,4 +120,3 @@ This serves as a **solid baseline** demonstrating:
 - Data preparation
 - Fine-tuning process
 - Qualitative CoT evaluation  
-All within a limited time budget.
